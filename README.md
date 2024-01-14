@@ -9,7 +9,7 @@ space for Python study
 
 🗂️ P_Programmers
 
-　 프로그래머스 Python3 Lv.0~2 문제
+　 프로그래머스 Python3 ~Lv.2 문제
 
 🗂️ P_HakerRank
 
