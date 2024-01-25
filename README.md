@@ -1,7 +1,3 @@
-## Python_practice
-space for Python study
-
-</br>
 
 🗂️ P_Programmers
 
