@@ -1,11 +1,8 @@
-## Python_practice
-space for Python study
-
-</br>
+## Space for Python Study
 
 🗂️ Python Basic HW
 
-　 내일배움캠프 DA 과정 중 진행한 Python 기초 과제
+　 내일배움캠프 DA 과정 중 진행한 파이썬 기초 과제
 
 🗂️ Python Basic DA
 
@@ -13,8 +10,4 @@ space for Python study
 
 🗂️ P_Programmers
 
-　 프로그래머스 Python3 ~Lv.2 문제
-
-
-
-
+　 프로그래머스 ~Lv.2 문제
